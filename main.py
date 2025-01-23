@@ -12,7 +12,7 @@ import os
 
 openai.api_key  = os.getenv('OPENAI_API_KEY')
 ligeminiapi= os.getenv('ligeminiapi')
-st.title("ROBOAIHB X NIRANJAN BOSS")
+st.title("Trial Chatbot on Labour Laws for MBA students : NIRANJAN X ROBOAi HUB")
 st.text("Disclaimer: Please note that the provided links may not always be up-to-date or accessible. We recommend consulting a qualified lawyer for official legal advice tailored to your specific situation.")
 
 # Initialize ChatNVIDIA client
